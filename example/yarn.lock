@@ -5482,10 +5482,10 @@
   "resolved" "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
 
-"react-native-permission-item@^0.1.1":
-  "integrity" "sha512-4IvkReIpLPsklJxBLNxB+1PtqGKUuEbTJWu/RyoK8atir1qpmjclYHgS8Ibf+EnVm0TcpOo+CjNXO8JZf8riAA=="
-  "resolved" "https://registry.npmjs.org/react-native-permission-item/-/react-native-permission-item-0.1.1.tgz"
-  "version" "0.1.1"
+"react-native-permission-item@^0.1.3":
+  "integrity" "sha512-zlZaJm2RXHGeUUlxDgF+caBr7Mcgk+zNHRutPAB4R5n6QWcqa3IadyA+k4D3Czjb7mdriJb0nqUlPj3FYmrifg=="
+  "resolved" "https://registry.npmjs.org/react-native-permission-item/-/react-native-permission-item-0.1.3.tgz"
+  "version" "0.1.3"
 
 "react-native-permission-service@^0.1.0":
   "integrity" "sha512-XnffHRwC68v3bMeAPLsQ5Q4RTpfbWpIPKr+CQcQKQN/FXWqesjtNxBNIAgstKcMgS/kkt411xbX5ufjuXLT28A=="
