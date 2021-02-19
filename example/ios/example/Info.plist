@@ -53,5 +53,17 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+		<key>NSCameraUsageDescription</key>
+	<string>This allows us to scan the barcode, show a photo of the license assets and tasks</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This allows us to use your location to provide you certain features like create task, updating task and tracking your location.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This allows us to use your location to provide you certain features like create task, updating task and tracking your location.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This allows us to use your location to provide you certain features like create task, updating task and tracking your location.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This allows us to scan the barcode, show a photo of the license assets and tasks</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This allows us to scan the barcode, show a photo of the license assets and tasks</string>
 </dict>
 </plist>
