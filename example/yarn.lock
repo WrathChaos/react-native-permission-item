@@ -5482,6 +5482,11 @@
   "resolved" "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
 
+"react-native-permission-item@^0.1.0":
+  "integrity" "sha512-/COtPNM6ovfiC3uC5jJxj4GzlaPY1dHxgHBXq2vO3knrNqgEzj60i9ZHFg5oLGo7p6XLSk3wbqac2err2d8XKA=="
+  "resolved" "https://registry.npmjs.org/react-native-permission-item/-/react-native-permission-item-0.1.0.tgz"
+  "version" "0.1.0"
+
 "react-native-permission-service@^0.1.0":
   "integrity" "sha512-XnffHRwC68v3bMeAPLsQ5Q4RTpfbWpIPKr+CQcQKQN/FXWqesjtNxBNIAgstKcMgS/kkt411xbX5ufjuXLT28A=="
   "resolved" "https://registry.npmjs.org/react-native-permission-service/-/react-native-permission-service-0.1.0.tgz"

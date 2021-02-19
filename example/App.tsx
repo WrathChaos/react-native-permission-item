@@ -8,7 +8,7 @@ import { ScreenWidth } from "@freakycoder/react-native-helpers";
  */
 import styles from "./app.style";
 import Button from "./src/components/Button/Button";
-import PermissionItem from "./lib/PermissionItem";
+import PermissionItem from "react-native-permission-item";
 import {
   hasAllPermissionsFunc,
   requestCameraPermission,
