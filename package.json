@@ -1,6 +1,6 @@
 {
   "name": "react-native-permission-item",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Customizable, easy to use permission item component for React Native.",
   "main": "./build/dist/PermissionItem.js",
   "repository": "git@github.com:WrathChaos/react-native-permission-item.git",
