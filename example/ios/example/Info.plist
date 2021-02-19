@@ -53,7 +53,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-		<key>NSCameraUsageDescription</key>
+	<key>NSCameraUsageDescription</key>
 	<string>This allows us to make the camera usage</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>This allows us to use your location to provide you certain features</string>
